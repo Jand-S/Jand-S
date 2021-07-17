@@ -11,3 +11,6 @@
 #### Badges do Movimento Codar :trophy: e GitHub Stats
 </img> [![Jandson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jand-S&locale=pt-br&bg_color=161b22&text_color=fff&title_color=fff)](https://github.com/Jand-S/github-readme-stats)<img src="https://codar-badges.vercel.app/api/card/Jand-S" width="300" height="" ></img>
 
+<div>
+	<img style="1px solid white" src="https://codar-badges.vercel.app/api/card/Jand-S"></img>
+</div>
