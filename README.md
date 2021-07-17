@@ -9,5 +9,5 @@
 #### Linguagens de programação que estou praticando  :computer:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"></img> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"></img>
 #### Badges do Movimento Codar :trophy: e GitHub Stats
-<img src="https://codar-badges.vercel.app/api/card/Jand-S" width="398" ></img> [![Jandson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jand-S&locale=pt-br&bg_color=161b22&text_color=fff&title_color=fff)](https://github.com/Jand-S/github-readme-stats)
+</img> [![Jandson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jand-S&locale=pt-br&bg_color=161b22&text_color=fff&title_color=fff)](https://github.com/Jand-S/github-readme-stats)<img src="https://codar-badges.vercel.app/api/card/Jand-S" width="300" height="" ></img>
 
