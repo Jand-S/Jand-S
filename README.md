@@ -5,7 +5,7 @@
 * Estudando :pencil2:
 * Lendo alguns livros :blue_book:
 * Testando muitos códigos :gear:
-* Participando do <a href="https://movimentocodar.org/"> Movimento Codar</a> apoiada pela <a href="https://bluesoft.com.br/"><img width="75"  src='https://movimentocodar.org/wp-content/uploads/2018/08/Bluesoft-Logo.png'></img></a>
+* Trabalhando com dev aprendiz na <a href="https://bluesoft.com.br/"><img width="75"  src='https://movimentocodar.org/wp-content/uploads/2018/08/Bluesoft-Logo.png'></img></a>
 #### Linguagens de programação que estou praticando  :computer:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"></img> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"></img> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
