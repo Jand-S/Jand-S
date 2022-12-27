@@ -19,7 +19,7 @@ Java, Python, C++, Javascript, HTML, CSS...
 | Projetos                                                              | Tech & Linguagens  | Finalizado ? |
 |-----------------------------------------------------------------------|--------------------|--------------|
 | [Visual Novel Downloader](https://github.com/Jand-S/Novel-Downloader) | Auto IT            |  ✔️           |
-| [Spotify .Py](https://github.com/yami2200/visualnovelcreator)         | Python, Qt         |  ❌          |
+| [Spotify .Py](https://github.com/Jand-S/Python_Spotify_QML)           | Python, Qt         |  ❌          |
 
 
 
