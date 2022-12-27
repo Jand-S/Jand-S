@@ -35,5 +35,6 @@ Java, Python, C++, Javascript, HTML, CSS...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://about-me-jand-s.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandson-macedo-8a2685212/)
 
-![snake gif-light](https://github.com/Jand-S/Jand-S/blob/output/github-contribution-grid-snake.svg)
+![snake gif-light](https://github.com/Jand-S/Jand-S/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif-dark](https://github.com/Jand-S/Jand-S/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
