@@ -1,13 +1,37 @@
-### Eai galera,
-## Meu nome é Jandson  :vulcan_salute:
 
-#### Atualmente estou :arrow_down:
-* Estudando :pencil2:
-* Lendo alguns livros :blue_book:
-* Codando muitas coisas :gear:
-* Trabalhando com dev aprendiz na <a href="https://bluesoft.com.br/"><img width="75"  src='https://movimentocodar.org/wp-content/uploads/2018/08/Bluesoft-Logo.png'></img></a>
-#### Linguagens de programação que estou praticando  :computer:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"></img> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"></img> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-#### GitHub Stats e Badges do Movimento Codar :trophy:
-</img> ![Jandson GitHub stats](https://github-readme-stats.vercel.app/api?username=Jand-S&locale=pt-br&theme=midnight-purple)<img src="https://codar-badges.vercel.app/api/card/Jand-S" width="300" height="" ></img>
+# Olá, meu nome é Jandson! 👋
+
+
+## 🚀 Sobre mim
+Sou um desenvolvedor de software com experiência em projetos de back-end e front-end. Atualmente, trabalho como desenvolvedor full-stack na empresa Bluesoft Sistemas, onde tenho a oportunidade de trabalhar em projetos que utilizam as tecnologias mais modernas e desafiadoras.
+
+## 🛠 Habilidades
+Java, Python, C++, Javascript, HTML, CSS...
+## ⚙️ ++
+
+🧠 Estou estudando C++ através de desafios no LeetCode. Gosto de praticar minhas habilidades de lógica de programação e resolver problemas complexos, e o LeetCode tem uma grande variedade de desafios que me ajudam a fazer isso.
+
+⚡️ Atualmente, estou cursando Ciência e Tecnologia na Universidade Federal do ABC (UFABC). Estou muito entusiasmado com a oportunidade de aprender sobre as últimas tecnologias e desenvolver habilidades práticas que me ajudarão a ter sucesso na carreira. Estou ansioso para aproveitar ao máximo essa experiência e aplicar o que aprendi em projetos futuros.
+
+
+## 📄 Projetos
+
+| Projetos                                                              | Tech & Linguagens  | Finalizado ? |
+|-----------------------------------------------------------------------|--------------------|--------------|
+| [Visual Novel Downloader](https://github.com/Jand-S/Novel-Downloader) | Auto IT            |  ✔️           |
+| [Spotify .Py](https://github.com/yami2200/visualnovelcreator)         | Python, Qt         |  ❌          |
+
+
+
+
+
+## 🧶 Algoritmos :
+
+| Algorithm Trainning                               | Language |
+|---------------------------------------------------|----------|
+| [Leet Code](https://github.com/Jand-S/leetcode)   |C++ / Java|
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://about-me-jand-s.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandson-macedo-8a2685212/)
+
