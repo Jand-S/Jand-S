@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor de software com experiência em projetos de back-end e front-end. Atualmente, trabalho como desenvolvedor full-stack na empresa Bluesoft Sistemas, onde tenho a oportunidade de trabalhar em projetos que utilizam as tecnologias mais modernas e desafiadoras.
+Sou um desenvolvedor de software com experiência em projetos de back-end e front-end.
 
 ## 🛠 Habilidades
 Java, Python, C++, Javascript, HTML, CSS...
